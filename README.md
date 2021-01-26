@@ -1,1 +1,2 @@
-# AST3310_Astrophysical_Plasma_and_Stellar_Interiors
+# AST3310 - Astrophysical Plasma and Stellar Interiors
+
